@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: Srinivas
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_221
+Extension-Name: Simplifyqaconnector
+Specification-Title: SimplifyQA Jenkins Connector is a Plugin to trigg
+ er automation of suites in SimplifyQA after build.
+Implementation-Title: Simplifyqaconnector
+Implementation-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: Simplifyqaconnector
+Long-Name: SimplifyQA Connector
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Developers: 
+

@@ -1,0 +1,4 @@
+# Created at 2021-02-01T17:25:52.478
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Simplifyqaconnector\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
